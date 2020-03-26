@@ -1,0 +1,22 @@
+{
+  "name": "datosanalyticos.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DatosAnalyticos/datosanalyticos.github.io.git"
+  },
+  "author": "Luis Edward Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DatosAnalyticos/datosanalyticos.github.io/issues"
+  },
+  "homepage": "https://github.com/DatosAnalyticos/datosanalyticos.github.io#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
